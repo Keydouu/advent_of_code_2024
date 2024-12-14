@@ -1,3 +1,4 @@
 *.exe
 *.sql
+*.txt
 .vscode/
